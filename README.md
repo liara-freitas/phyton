@@ -1,4 +1,4 @@
-Repositório de Exercícios em Python
+# Repositório de Exercícios em Python
 
 Este repositório contém uma coleção de exercícios desenvolvidos em Python, abordando diversos conceitos fundamentais da linguagem e boas práticas de programação.
 
