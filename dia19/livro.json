@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": " Grande Principe",
+        "autor": "Antonie",
+        "ano": "2019",
+        "isbn": "546546464",
+        "disponivel": false
+    },
+    {
+        "id": 2,
+        "titulo": "O Di\u00e1rio de Anne Frank",
+        "autor": "Anne Frank",
+        "ano": "1950",
+        "isbn": "6584956210",
+        "disponivel": true
+    }
+]

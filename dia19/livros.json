@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "titulo": "Pequeno Principe",
+        "autor": "Antonie de Saint-Exup\u00e9ry",
+        "ano": "2018",
+        "isbn": "8595081514",
+        "disponivel": false
+    },
+    {
+        "id": 2,
+        "titulo": "O Di\u00e1rio de Anne Frank",
+        "autor": "Anne Frank",
+        "ano": "1950",
+        "isbn": "6584956210",
+        "disponivel": true
+    }
+]
